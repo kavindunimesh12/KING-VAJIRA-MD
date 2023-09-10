@@ -1,5 +1,5 @@
 {
-               "name": "Nithya",
+               "name": "Vajira",
                "version": "0.0.2",
                "description": "Multi device whatsapp bot ",
                "main": "lib/client.js",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/DileepaTech/Queen-Nithya-MD.git"
+                 "url": "git+https://github.com/vajirabot1/KING-VAJIRA-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/DileepaTech/Queen-Nithya-MD/issues"
+                 "url": "https://github.com/vajirabot1/KING-VAJIRA-MD/issues"
                   },
-                 "homepage": "https://github.com/DileepaTech/Queen-Nithya-MD#readme"
+                 "homepage": "https://github.com/vajirabot1/KING-VAJIRA-MD#readme"
                   }

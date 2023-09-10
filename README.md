@@ -20,7 +20,7 @@
     
    by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
-[![Scan QR CODE](https://i.imgur.com/7vCHqbO.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)
+[![Scan QR CODE](https://i.imgur.com/ERSknrZ.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)
 
     
 ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA-MD/fork)***

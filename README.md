@@ -15,8 +15,8 @@
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
-1. ***Get [SESSION-ID](https://replit.com/@yasasdileepara1/QUEEN-NITHYA-MD?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-2.  ***Click [FORK](https://github.com/DileepaTech/Queen-Nithya-MD/fork)***
+1. ***Get [SESSION-ID](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+2.  ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA-MD/fork)***
 ## Heroku Deployment Method
 3. 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fvajirabot1%2FKING-VAJIRA-MD)
@@ -33,7 +33,7 @@
  
 ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/DileepaTech/Queen-Nithya-MD)
 
-NITHYA whatsapp bot is,
+VAJIRA whatsapp bot is,
 
       VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 

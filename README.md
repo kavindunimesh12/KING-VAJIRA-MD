@@ -88,10 +88,10 @@ Copy the JSON down and paste in repl then fill the vars
    
 }
 
-</details>
-
 
 ```
+</details>
+
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
 
 

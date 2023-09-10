@@ -36,6 +36,26 @@
  
 ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/DileepaTech/Queen-Nithya-MD)
 
+<b><details><summary>Available Features</summary><br>
+	
+| Features |  Availability |
+| :------: |  :----------: |
+|   Convert     |       ✔️     |
+|   Database     |       ✔️     |
+|   Owner     |       ✔️    |
+|   Downloader     |       ✔️     |
+|   Webzone     |       ✔️       |
+|   Searching     |       ✔️      |
+|   Textpro     |       ✔️      |
+|   Ephoto     |       ✔️     |
+|   Anime Web     |       ✔️      |
+|   Stalker     |       ✔️      |
+|   Random Text     |       ✔️     |
+|   Random Image     |       ✔️     |
+|   Creator     |       ✔️      |
+
+</details>
+
 VAJIRA whatsapp bot is,
 
       VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.

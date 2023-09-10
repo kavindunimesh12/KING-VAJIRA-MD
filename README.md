@@ -80,20 +80,22 @@ Copy the JSON down and paste in repl then fill the vars
 {
   "SESSION_ID": "ID-Here",
   "OWNER_NUMBER": "91xxxxxxxxxx",
-  "OWNER_NAME": "EREN JEAGER",
+  "OWNER_NAME": "VAJIRA RATHNAYAKA",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
-  "PACK_INFO": "Sam;Pandey",
+  "PACK_INFO": "Vajira;Nimesha",
   "PREFIX": "."
    
 }
 
 </details>
 
+
+```
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
 
 
-```
+
  
 <br>
 <div>

@@ -20,7 +20,7 @@
     
    ***Get [SESSION-ID](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
-[![Scan QRCODR](https://i.imgur.com/vYaAgE6.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)
+[![Scan QRCODR](https://i.imgur.com/b2m9IAo.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)
 
     
 ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA-MD/fork)***

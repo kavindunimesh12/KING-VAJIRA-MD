@@ -65,7 +65,7 @@ VAJIRA whatsapp bot is,
 
 
   
- 
+<b><details><summary>𝙀𝙍𝙍𝙊𝙍 𝙁𝙄𝙓 𝘾𝙊𝘿𝙀𝙎</summary><br> 
 
 
 **RUN*** Doesn't work, paste these commands in repl shell
@@ -87,6 +87,12 @@ Copy the JSON down and paste in repl then fill the vars
   "PREFIX": "."
    
 }
+
+</details>
+
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
+
+
 ```
  
 <br>

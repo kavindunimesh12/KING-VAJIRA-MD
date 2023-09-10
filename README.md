@@ -1,16 +1,16 @@
 <div align="center">
-    ⏬<b>Queen NITHYA</b>⏬</b>
+    ⏬<b>KING VAJIRA</b>⏬</b>
 
   
 <div align="center">
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+QUEEN+NITHYA+WHATSAPP+BOT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRa+WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
-<a href="https://github.com/DileepaTech">
-    <img src="https://telegra.ph/file/e737a6573663dcd99f96c.jpg" width="700px">
+<a href="https://github.com/vajirabot1">
+    <img src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg" width="700px">
   </a>
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
@@ -19,7 +19,7 @@
 2.  ***Click [FORK](https://github.com/DileepaTech/Queen-Nithya-MD/fork)***
 ## Heroku Deployment Method
 3. 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fvajirabot1%2FKING-VAJIRA-MD)
 
 
  
@@ -35,7 +35,7 @@
 
 NITHYA whatsapp bot is,
 
-      NITHYA whatsapp bot is an easy to use whatsapp robot.   |  NITHYA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 
   

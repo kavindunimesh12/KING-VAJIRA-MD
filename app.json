@@ -1,14 +1,14 @@
 { 
-   "name": "NITHYA", 
+   "name": "VAJIRA", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
-   "logo": "https://telegra.ph/file/e737a6573663dcd99f96c.jpg", 
+   "logo": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg", 
    "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
    "success_url": "/", 
    "stack": "container", 
  "env": { 
    "OWNER_NAME": { 
    "description": "Name of Bot Owner", 
-       "value": "Dileepa" 
+       "value": "vajira" 
    }, 
    "ALIVE_MESSAGE": { 
      "description": "Alive message for bot", 
@@ -31,7 +31,7 @@
      }, 
     "THUMB_IMAGE": { 
      "description": "THUMBNAIL for bot.", 
-      "value": "https://telegra.ph/file/e737a6573663dcd99f96c.jpg" 
+      "value": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg" 
      }, 
      "ANTI_BAD_WORD": { 
      "description": "Put words here. If you want it enabled in your bot otherwise leave it blank", 
@@ -67,20 +67,20 @@
    }, 
    "OWNER_NUMBER": { 
      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")", 
-        "value": "94705674697" 
+        "value": "94766943622" 
    }, 
      "OPENAI_API_KEY": { 
      "description": "Please put your OPENAI api key here.Get it from beta.openai.com ", 
-        "value": "Replace Me(optional)", 
+        "value": "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", 
         "required" :false 
    }, 
    "MONGODB_URI": { 
      "description": "A secret String for Mongodb Connection.(Required),change for better experience", 
-     "value": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority" 
+     "value": "mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority" 
    }, 
      "THEME": { 
      "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
-      "value": "NITHYA" 
+      "value": "VAJIRA" 
    }, 
      "WORKTYPE": { 
    "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.", 
@@ -113,7 +113,7 @@
    },   
    "PACK_INFO": { 
      "description": "Put packname;authorname.", 
-      "value": "Dileepa;Nithya", 
+      "value": "Vajira;Nimesha", 
       "required": false  
    }, 
    "heroku": { 

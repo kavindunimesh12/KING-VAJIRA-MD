@@ -20,7 +20,7 @@
 
 <div align="center">    
    
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=#ff8coo&lines=ＣＬＩＣＫ+ＴＯ+ＳＣＡＮ+ＱＲ+ＣＯＤＥ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＣＬＩＣＫ+ＴＯ+ＳＣＡＮ+ＱＲ+ＣＯＤＥ)](https://git.io/typing-svg)
 
 </p>
 

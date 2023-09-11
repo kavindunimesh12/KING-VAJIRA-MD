@@ -242,14 +242,18 @@ Void.sendMessage(citel.chat, {
           await Void.sendMessage(citel.chat, { audio: {url : 'https://github.com/DileepaTech/voicec/raw/main/Alive (2).mp3',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Vajira.*`
             const alivtxt = `
-*Hello, ${citel.pushName},*
-පැය 24ම ඔන්ලයින් ඔනිම දෙයක් ගන්න
+*👋Hello, ${citel.pushName},*
+
+⏰පැය 24ම ඔන්ලයින් ඔනිම දෙයක් ගන්න
+
 ☘️ මෙහි බොහෝ COMMAND වර්ග තිබේ මෙහි තිබෙන COMMAND දැන ගෑනීමට .MENU ලෙස ටයිප් කර එවන්න. එවිට ඔබට MESSAGE එකක් පැමිනේවි COMMAND LIST එකෙහි  
 හැම COMMAND එකක්ම පටන් ගන්නෙ (DOT MARK) එකෙනි 💃🏻❤️
+
 📌 Github Link = https://github.com/vajirabot1/KING-VAJIRA-MD
 📌 Yt Channel Link = https://youtube.com/@gamingewingyt6216
 📌 Whatsapp Group Link = https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk
-This is KING-VAJIRA
+
+This is KING-VAJIRA 🍏
 ${alivemessage}
 
 🍧Version:-* 0.0.3

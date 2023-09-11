@@ -251,7 +251,7 @@ ${alivemessage}
 👤Owner:-* ${Config.ownername}
 🎧Branch:-* ${Config.BRANCH}
 
-● Powerd By Queen Vajira
+● Powerd By King Vajira
 
 📗Owner ${Config.ownername}`;
             let aliveMessage = {

@@ -247,7 +247,7 @@ This is KING-VAJIRA
 පැය 24ම ඔන්ලයින් ඔනිම දෙයක් ගන්න
 📌 Github Link = https://github.com/vajirabot1/KING-VAJIRA-MD
 📌 Yt Channel Link = https://youtube.com/@gamingewingyt6216
-📌 Whatsapp Group Lonk = https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk
+📌 Whatsapp Group Link = https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk
 ☘️ මෙහි බොහෝ COMMAND වර්ග තිබේ මෙහි තිබෙන COMMAND දැන ගෑනීමට .MENU ලෙස ටයිප් කර එවන්න. එවිට ඔබට MESSAGE එකක් පැමිනේවි COMMAND LIST එකෙහි  
 හැම COMMAND එකක්ම පටන් ගන්නෙ (DOT MARK) එකෙනි 💃🏻❤️
 ${alivemessage}

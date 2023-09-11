@@ -256,10 +256,10 @@ Void.sendMessage(citel.chat, {
 This is KING-VAJIRA 🍏
 ${alivemessage}
 
-🍧Version:-* 0.0.3
-🆙Uptime:-* ${runtime(process.uptime())}
-👤Owner:-* ${Config.ownername}
-🎧Branch:-* ${Config.BRANCH}
+*🍧Version*:- 0.0.3
+*🆙Uptime*:- ${runtime(process.uptime())}
+*👤Owner*:- ${Config.ownername}
+*🎧Branch*:-* ${Config.BRANCH}
 
 ● Powerd By King Vajira
 

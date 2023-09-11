@@ -17,10 +17,21 @@
 
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
-    
-   ＳＣＡＮ ＱＲ ＣＯＤＥ
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=ＳＣＡＮ+ＱＲ+ＣＯＤＥ)](https://git.io/typing-svg)
+<div align="center">    
+   
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＳＣＡＮ+ＱＲ+ＣＯＤＥ)](https://git.io/typing-svg)
+
+<br>
+<div>
+
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
+
 
 
 [![Scan QR CODE](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)

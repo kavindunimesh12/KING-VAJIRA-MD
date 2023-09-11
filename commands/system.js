@@ -262,8 +262,6 @@ ${alivemessage}
 *🆙Uptime*:- ${runtime(process.uptime())}
 *👤Owner*:- ${Config.ownername}
 *🎧Branch*:- ${Config.BRANCH}
-*⌚Time*:- ${Time.Time}
-*📅 Date*:- ${Date.Date}
 
 ● Powerd By King Vajira
 

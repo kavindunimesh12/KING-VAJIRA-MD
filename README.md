@@ -47,6 +47,7 @@
 
 </details>
 
+## SOCIAL MEADIA
 
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216)[![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)](https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL)[![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
 

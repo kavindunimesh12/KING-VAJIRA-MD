@@ -268,7 +268,7 @@ ${alivemessage}
 "https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk"
 
 
-Thank You For Using KING-VAJIRA BOT💞
+"Thank You For Using KING-VAJIRA BOT💞"
 
 📗Owner ${Config.ownername}`;
             let aliveMessage = {

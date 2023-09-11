@@ -25,12 +25,7 @@
 <br>
 <div>
 
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>
+
 
 [![Scan QR CODE](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)
 

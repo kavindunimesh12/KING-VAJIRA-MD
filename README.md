@@ -22,7 +22,7 @@
    
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＳＣＡＮ+ＱＲ+ＣＯＤＥ+ＤＯＷＮ)](https://git.io/typing-svg)
 
-</a>
+</p>
 
 [![Scan QR CODE](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1)
 

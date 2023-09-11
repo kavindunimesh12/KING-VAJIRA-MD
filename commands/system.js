@@ -240,8 +240,13 @@ Void.sendMessage(citel.chat, {
           }) 
           await Void.sendPresenceUpdate('recording', citel.chat);
           await Void.sendMessage(citel.chat, { audio: {url : 'https://github.com/DileepaTech/voicec/raw/main/Alive (2).mp3',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Vajira.*
-            🛑 පැය 24ම ඔන්ලයින් ඔනිම දෙයක් ගන්න
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Vajira.*`
+            const alivtxt = `
+*Hello, ${citel.pushName},*
+This is KING-VAJIRA
+${alivemessage}
+
+🛑 පැය 24ම ඔන්ලයින් ඔනිම දෙයක් ගන්න
 
 ☘️ මෙහි බොහෝ COMMAND වර්ග තිබේ මෙහි තිබෙන COMMAND දැන ගෑනීමට .MENU ලෙස ටයිප් කර එවන්න. එවිට ඔබට MESSAGE එකක් පැමිනේවි COMMAND LIST එකෙහි  
 
@@ -258,11 +263,7 @@ https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL
 https://chat.whatsapp.com/JWSwRIejOGAFHzeeAdkWBA
 
 
-Thank You For Using KING-VAJIRA BOT💞`
-            const alivtxt = `
-*Hello, ${citel.pushName},*
-This is KING-VAJIRA
-${alivemessage}
+Thank You For Using KING-VAJIRA BOT💞
 
 🍧Version:-* 0.0.3
 🆙Uptime:-* ${runtime(process.uptime())}

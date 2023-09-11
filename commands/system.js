@@ -244,6 +244,10 @@ Void.sendMessage(citel.chat, {
             const alivtxt = `
 *Hello, ${citel.pushName},*
 This is KING-VAJIRA
+🛑 පැය 24ම ඔන්ලයින් ඔනිම දෙයක් ගන්න
+
+☘️ මෙහි බොහෝ COMMAND වර්ග තිබේ මෙහි තිබෙන COMMAND දැන ගෑනීමට .MENU ලෙස ටයිප් කර එවන්න. එවිට ඔබට MESSAGE එකක් පැමිනේවි COMMAND LIST එකෙහි  
+හැම COMMAND එකක්ම පටන් ගන්නෙ (DOT MARK) එකෙනි 💃🏻❤️
 ${alivemessage}
 
 🍧Version:-* 0.0.3
@@ -252,23 +256,6 @@ ${alivemessage}
 🎧Branch:-* ${Config.BRANCH}
 
 ● Powerd By King Vajira
-
-🛑 පැය 24ම ඔන්ලයින් ඔනිම දෙයක් ගන්න
-
-☘️ මෙහි බොහෝ COMMAND වර්ග තිබේ මෙහි තිබෙන COMMAND දැන ගෑනීමට .MENU ලෙස ටයිප් කර එවන්න. එවිට ඔබට MESSAGE එකක් පැමිනේවි COMMAND LIST එකෙහි  
-
-හැම COMMAND එකක්ම පටන් ගන්නෙ .(DOT MARK) එකෙනි 💃🏻♥️```
-
-" *🛑 YOUTUBE CHANNEL LINK*" =  "https://youtube.com/@gamingewingyt6216"
-
-"*🛑 FACEBOOK PROFILE LINK*" = 
-"https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL"
-
-"*🛑 WHATSAPP BOT GROUP LINK*" = 
-"https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk"
-
-
-"Thank You For Using KING-VAJIRA BOT💞"
 
 📗Owner ${Config.ownername}`;
             let aliveMessage = {

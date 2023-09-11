@@ -261,7 +261,7 @@ ${alivemessage}
 *🍧Version*:- 0.0.3
 *🆙Uptime*:- ${runtime(process.uptime())}
 *👤Owner*:- ${Config.ownername}
-*🎧Branch*:-* ${Config.BRANCH}
+*🎧Branch*:- ${Config.BRANCH}
 *⌚Time*:- ${time}
 *📅 Date*:- ${date}
 

@@ -47,6 +47,8 @@
 
 </details>
 
+[![Whatsapp group](https://telegra.ph/file/65eaf9928c07ac54c661c.jpg)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
+
 ## Available Features
 	
 | Features |  Availability |

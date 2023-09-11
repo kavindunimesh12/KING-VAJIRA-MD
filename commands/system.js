@@ -254,7 +254,7 @@ Void.sendMessage(citel.chat, {
 📌 Github Link = https://github.com/vajirabot1/KING-VAJIRA-MD
 📌 Yt Channel Link = https://youtube.com/@gamingewingyt6216
 📌 Whatsapp Group Link = https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk
-
+📌 Facebook link = https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL
 This is KING-VAJIRA 🍏
 ${alivemessage}
 

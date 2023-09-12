@@ -5,7 +5,7 @@
  It is supplied in the hope that it may be useful.
  * @project_name : Vajira-Md
  * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @description : Vajira,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 

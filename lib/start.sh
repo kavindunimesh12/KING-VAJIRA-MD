@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Blue-Lion..."
+echo "Starting KING-VAJIRA..."
 node lib/client.js
 done

@@ -1,5 +1,5 @@
 {
-               "name": "Blue-Lion",
+               "name": "KING-VAJIRA",
                "version": "0.0.2",
                "description": "Multi device whatsapp bot by moxie.",
                "main": "lib/client.js",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/nipuna15/Blue-Lion-V2.git"
+                 "url": "git+https://github.com/vajirabot1/KING-VAJIRA-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/nipuna15/Blue-Lion-V2/issues"
+                 "url": "https://github.com/vajirabot1/KING-VAJIRA-MD/issues"
                   },
-                 "homepage": "https://github.com/nipuna15/Blue-Lion-V2#readme"
+                 "homepage": "https://github.com/vajirabot1/KING-VAJIRA-MD#readme"
                   }

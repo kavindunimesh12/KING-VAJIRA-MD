@@ -373,7 +373,7 @@ try {
 //---------------------------------------------------------------------------
 smd({pattern: "gitclone",desc: "Downloads apks  .",category: "downloader",filename: __filename,use: '<git url>', },
         async(Suhail, citel, text) => {
-	if (!text) return await citel.send('*Provide Repo Url, Ex:- _.gitclone https://github.com/SuhailTechInfo/Secktor-bot_*') 
+	if (!text) return await citel.send('*Provide Repo Url, Ex:- _.gitclone https://github.com/vajirabot1/KING-VAJIRA-MD_*') 
     const regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
     if (!regex.test(text) ) return await citel.send('*Uhh Please, Provide Valid Repositry Url*');
     let [_, user, repo] = text.match(regex) || []

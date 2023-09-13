@@ -40,7 +40,7 @@ cmd({
         if (!isCreator) return citel.reply(tlang().owner)
         if(text==='all') {
          await plugindb.collection.drop()
-         return citel.reply('Deleted all plugins from NITHYA.')
+         return citel.reply('Deleted all plugins from VAJIRA.')
         }
         let kill = await remove(text.split(" ")[0])
         delete require.cache[require.resolve(__dirname+"/" + text + ".js")];

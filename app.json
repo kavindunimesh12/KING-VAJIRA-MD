@@ -53,7 +53,7 @@
       "value": "false" 
      }, 
        "READ_MESSAGE": { 
-     "description": "Fill the value true if you want bot to read all messages.", 
+     "description": "බොට් හට සියලුම පණිවිඩ කියවීමට අවශ්‍ය නම් සත්‍ය අගය පුරවන්න.", 
       "required" :false, 
       "value": "true" 
      }, 
@@ -69,8 +69,8 @@
      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")", 
         "value": "94766943622" 
    }, 
-     "OPENAI_API_KEY": { 
-     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ", 
+     "OPENAI_API_KEY": {
+     "description": "කරුණාකර ඔබේ OPENAI api Key එක මෙහි දමන්න.ඒක ගන්න beta.openai.com ", 
         "value": "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", 
         "required" :false 
    }, 
@@ -79,7 +79,7 @@
      "value": "mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority" 
    }, 
      "THEME": { 
-     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
+     "description": "ඔබට භාවිතා කිරීමට අවශ්‍ය Theme එක දමන්න. ලබා ගත හැකි තේමා are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
       "value": "VAJIRA" 
    }, 
      "WORKTYPE": { 

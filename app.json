@@ -7,30 +7,30 @@
    "stack": "container", 
  "env": { 
    "OWNER_NAME": { 
-   "description": "Name of Bot Owner", 
+   "description": "අයිතිකාරයගෙ නම", 
        "value": "vajira" 
    }, 
    "ALIVE_MESSAGE": { 
-     "description": "Alive message for bot", 
+     "description": "බොට්ට Alive message එකක්", 
       "required" :false 
      }, 
      "SESSION_ID": {
-      "description": "Please put your SESSION_ID here"
+      "description": "SESSION_ID එක මෙතන ගහන්න"
     },
      "AUTO_STATUS_SAVER": { 
        "description": "Automatically saves status of every person and sends in log number.", 
         "required" :false 
        }, 
      "HEROKU_API_KEY": { 
-     "description": "Put HEROKU API KEY", 
+     "description": "HEROKU API KEY එක මෙතන ගහන්න", 
       "required" :false 
      }, 
    "HEROKU_APP_NAME": { 
-     "description": "Put HEROKU APP NAME same as above.", 
+     "description": "HEROKU APP NAME එක ඉහත ලෙස නැවත ගහන්න.", 
       "required" :false 
      }, 
     "THUMB_IMAGE": { 
-     "description": "THUMBNAIL for bot.", 
+     "description": "බොට්ට THUMBNAIL එකක් දාන්න.", 
       "value": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg" 
      }, 
      "ANTI_BAD_WORD": { 
@@ -38,7 +38,7 @@
       "required" :false 
      }, 
     "ANTILINK_VALUES": { 
-     "description": "Put words for antilink", 
+     "description": "antilink එකට වචන දාන්න", 
       "value": "chat.whatsapp.com,fb.com,instagram.com", 
       "required" :false 
      }, 
@@ -97,12 +97,12 @@
      "required": false  
   }, 
     "ALWAYS_ONLINE": { 
-     "description": "All Time Online in whatsapp.", 
+     "description": "හැමතිස්සෙම whatsapp එකෙ Online පෙන්නන්න.", 
       "value": "true", 
       "required": false  
    },
  "AUTO_READ_STATUS": { 
-     "description": "Auto Seen all status.", 
+     "description": "Status Auto seen කරන්න.", 
       "value": "true", 
       "required": false  
    },
